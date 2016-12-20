@@ -1,0 +1,7 @@
+<db_settings>
+    <dbname>hector</dbname>
+    <user>mkts</user>
+    <password>password</password>
+    <hostaddr>192.6.6.6</hostaddr>
+    <port>1111</port>
+</db_settings>

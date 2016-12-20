@@ -1,0 +1,7 @@
+<db_settings>
+    <dbname>cpptest</dbname>
+    <user>raj</user>
+    <password>raj</password>
+    <hostaddr>127.0.0.1</hostaddr>
+    <port>5432</port>
+</db_settings>

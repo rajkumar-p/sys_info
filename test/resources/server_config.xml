@@ -1,0 +1,29 @@
+<clients>
+    <client>
+        <key>jack</key>
+        <email>jack@jack.com</email>
+        <alerts>
+            <memory>24</memory>
+            <cpu>32</cpu>
+            <processes>40</processes>
+        </alerts>
+    </client>
+    <client>
+        <key>jill</key>
+        <email>jill@jill.com</email>
+        <alerts>
+            <memory>18</memory>
+            <cpu>24</cpu>
+            <processes>30</processes>
+        </alerts>
+    </client>
+    <client>
+        <key>mary</key>
+        <email>mary@mary.com</email>
+        <alerts>
+            <memory>27</memory>
+            <cpu>36</cpu>
+            <processes>45</processes>
+        </alerts>
+    </client>
+</clients>
